@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. PRG_ACCEPT.
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
@@ -51,4 +51,4 @@
            DISPLAY "Today is day " YearDay " of the year".
            DISPLAY "The time is " CurrentHour ":" CurrentMinute.
            STOP RUN.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM PRG_ACCEPT.
