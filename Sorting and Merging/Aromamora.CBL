@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author:
+      * Author: Raphael Ervin S. Lopez
       * Date:
       * Purpose:
       * Tectonics: cobc
@@ -44,7 +44,7 @@
 
        FD AromaSalesFile.
 
-       SD WorkFile.
+
        01 Work.
           02 WorkCustomerID           PIC 9(5).
           02 WorkCustomerName         PIC X(20).
